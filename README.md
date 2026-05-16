@@ -1,1 +1,1 @@
-# MovieBookingSystem_website
+A responsive and user-friendly Movie Booking System website developed using HTML, CSS, and JavaScript. The website allows users to browse available movies, view show timings, select seats, and book tickets through an interactive interface. It provides a smooth and engaging user experience with dynamic seat selection and real-time ticket price calculation using JavaScript. The project focuses on frontend web development concepts, responsive design, and DOM manipulation to simulate an online cinema ticket booking platform.
